@@ -1,0 +1,36 @@
+# ─── Python ───
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+
+# ─── Environment ───
+.env
+.venv/
+venv/
+env/
+
+# ─── Uploads (runtime data) ───
+uploads/
+
+# ─── IDE ───
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ─── OS ───
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ─── Node (frontend) ───
+node_modules/
+frontend/node_modules/
+frontend/build/
+
+# ─── Logs ───
+*.log

@@ -1,0 +1,11 @@
+filterpy==1.4.5
+lap==0.5.13
+matplotlib==3.10.8
+numpy==2.4.3
+opencv_python==4.11.0.86
+opencv_python_headless==4.10.0.84
+scipy==1.17.1
+skimage==0.0
+ultralytics==8.2.82
+httpx>=0.27.0
+python-dotenv>=1.0.0
